@@ -1,0 +1,6 @@
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\bin\Debug\Dijkstra_Single.exe.config
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\bin\Debug\Dijkstra_Single.exe
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\bin\Debug\Dijkstra_Single.pdb
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\obj\Debug\Dijkstra_Single.csprojResolveAssemblyReference.cache
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\obj\Debug\Dijkstra_Single.exe
+c:\users\vladakim\documents\visual studio 2013\Projects\Dijkstra_Single\Dijkstra_Single\obj\Debug\Dijkstra_Single.pdb
